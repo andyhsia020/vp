@@ -32,6 +32,6 @@ markdown:
     permalink: false
     permalinkClass: 'header-anchor'
     permalinkSide: 'left'
-    permalinkSymbol: '¶'
+    permalinkSymbol: '/'
     case: 0
     separator: '-'
