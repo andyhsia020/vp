@@ -25,4 +25,4 @@ cp -r `ls | grep -v hexo | grep -v config.yml | xargs` hexo/source/_posts
 cp config.yml victorypicker
 
 # 开始构建
-cd victorypicker && victorypicker g --config config.yml
+cd victorypicker && hexo g --config config.yml
